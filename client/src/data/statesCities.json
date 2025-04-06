@@ -1,0 +1,8 @@
+{
+    "states": {
+      "Massachusetts": ["Boston", "Cambridge", "Springfield","Malden"],
+      "California": ["Los Angeles", "San Francisco", "San Diego"],
+      "New York": ["New York City", "Buffalo", "Rochester"]
+    }
+  }
+  
